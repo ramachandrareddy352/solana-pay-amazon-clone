@@ -18,6 +18,12 @@
   </h4>
 </div>
 
+## Updates
+Implemented Solana Pay as checkout method.
+![alt text](image.png)
+
+demo video: https://www.youtube.com/watch?v=fRSia1JoIr0
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
