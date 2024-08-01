@@ -22,7 +22,7 @@
 Implemented Solana Pay as checkout method.
 ![alt text](image.png)
 
-demo video: https://www.youtube.com/watch?v=fRSia1JoIr0
+demo video: https://www.youtube.com/watch?v=fRSia1JoIr0  
 blog post: https://vocus.cc/article/66a7daa0fd89780001b64cf5
 <!-- TABLE OF CONTENTS -->
 <details>
