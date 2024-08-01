@@ -5,7 +5,7 @@ const productsData = [
       id: "537338",
       name: "Apple iPhone 13, 128GB, Blue - Unlocked (Renewed)",
       price: "814.99",
-      image: "/assets/products/iphone.png",
+      image: "/assets/products/XueDAO_logo.png",
       rating: 4.5,
     },
     {
