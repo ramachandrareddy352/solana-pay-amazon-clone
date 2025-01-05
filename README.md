@@ -8,12 +8,6 @@
 
   <h2 align="center">Solana-Pay Amazon-Clone</h2>
 
-  <h4 align="center">  
-    <br />
-    <p>https://amazon-solana-pay.netlify.app/ </p>
-  </h4>
-</div>
-
 **Core Functionalities:**
 * Creating/Signing in to an account.
 * Single Page Application (instant response time).
