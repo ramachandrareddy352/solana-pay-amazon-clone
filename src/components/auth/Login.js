@@ -37,7 +37,13 @@ function Login() {
     <div className="login">
       <div className={mounted ? "login__wrapper active" : "login__wrapper"}>
         <Link to="/">
-          <img src={'/assets/icons/logo-dark.png'} alt="amazon" className="login__logo" width={136} height={52} />
+          <img
+            src={"/assets/icons/logo-dark.png"}
+            alt="amazon"
+            className="login__logo"
+            width={136}
+            height={52}
+          />
         </Link>
 
         <div className="login__container">
@@ -81,8 +87,8 @@ function Login() {
           </form>
 
           <p>
-            By continuing, you agree to Charles' Amazon Clone Conditions of Use
-            and Privacy Notice.
+            By continuing, you agree to Amazon Clone Conditions of Use and
+            Privacy Notice.
           </p>
         </div>
 
