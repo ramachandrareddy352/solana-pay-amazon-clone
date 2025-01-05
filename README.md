@@ -10,7 +10,7 @@
 
   <h4 align="center">  
     <br />
-    <a href="[https://clone-f50ae.web.app/](https://amazon-solana-pay.netlify.app/)" target="_blank">View Live</a>
+    <p>https://amazon-solana-pay.netlify.app/ </p>
   </h4>
 </div>
 
