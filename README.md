@@ -2,11 +2,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/OkoyeCharles/amazon-clone">
+  <a href="https://github.com/ramachandrareddy352/solana-pay-amazon-clone">
     <img src="https://user-images.githubusercontent.com/102174805/187028856-d3ad3cb1-4006-4dfb-9704-4a2e10a56195.png" alt="amazon-clone" width="100">
   </a>
 
-  <h2 align="center">Amazon-Clone</h2>
+  <h2 align="center">Solana-Pay Amazon-Clone</h2>
 
   <h4 align="center">  
     <br />
@@ -19,11 +19,6 @@
 </div>
 
 ## Updates
-Implemented Solana Pay as checkout method.
-![alt text](image.png)
-
-demo video: https://www.youtube.com/watch?v=fRSia1JoIr0  
-blog post: https://vocus.cc/article/66a7daa0fd89780001b64cf5
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>

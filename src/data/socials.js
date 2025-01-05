@@ -1,7 +1,7 @@
 const socials = {
-  github: 'https://github.com/okoyecharles',
-  portfolio: 'https://okoyecharles.com',
-  gmail: 'mailto:okoyecharles509@gmail.com'
+  github: "https://github.com/ramachandrareddy352",
+  portfolio: "https://ramachandrareddy.netlify.app/",
+  gmail: "mailto:rcrtavanam@gmail.com",
 };
 
 export default socials;
